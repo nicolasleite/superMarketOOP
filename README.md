@@ -2,14 +2,14 @@
 4º trabalho de Programação Orientada a Objetos
 
 Alunos:
-  Nícolas Bassetto Leite 8937292
-  Danilo de Moraes Costa 8921972
+  - Nícolas Bassetto Leite 8937292
+  - Danilo de Moraes Costa 8921972
 
 Como rodar como cliente:
-  java -jar superMarketOOP.jar client
+  - java -jar superMarketOOP.jar client
   
 Como rodar como servidor:
-  java -jar superMarketOOP.jar server
+  - java -jar superMarketOOP.jar server
   
 Funções servidor:
   - new product: adicionar novo produto ao estoque
